@@ -1,5 +1,12 @@
+import React from "react";
+import Users from "./User1";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <Users />
+    </>
+  );
 }
 
 export default App;
